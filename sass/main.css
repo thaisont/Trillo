@@ -587,8 +587,6 @@ body {
 }
 
 .chat__time {
-  -ms-flex-item-align: end;
-      align-self: flex-end;
   margin-bottom: 2px;
 }
 
